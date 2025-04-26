@@ -5,7 +5,7 @@
 </p>
 
 ### 🚀 About Me:
-- 🏆 *Finalist* at *Medecro HealthHack 2024*, where I worked on AI-driven clinic management systems.
+
 - 🌱 Continuously exploring new technologies and refining my skills in *full-stack development*.
 - 💻 Passionate about crafting *web applications, AI integrations, and **intuitive UI/UX* experiences.
 - 🎨 Love blending *art and code, bringing designs to life with **smooth animations and interactivity*.
